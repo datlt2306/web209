@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 1 updated",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm 2",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "name": "Sản phẩm 3",
+      "price": 300,
+      "id": 3
+    },
+    {
+      "name": "Sản phẩm 4",
+      "price": 400,
+      "id": 4
+    },
+    {
+      "name": "Sản phẩm 5",
+      "price": 500,
+      "id": 5
+    },
+    {
+      "name": "sản phẩm 6",
+      "price": 600,
+      "id": 6
+    },
+    {
+      "name": "Sản phẩm 7",
+      "price": 700,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$n.WsKvkjNZ5NrrKT23hsjO6QCWGZ5iYle5hypDn7aPMQMnqfEPuES",
+      "id": 1
+    }
+  ]
+}
